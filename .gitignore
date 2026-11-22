@@ -1,0 +1,11 @@
+# Cache gerado pelo Sass
+.sass-cache/
+*.sass-cache
+
+# Dependências e configuração local
+node_modules/
+.env
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
